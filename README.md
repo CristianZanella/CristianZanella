@@ -1,7 +1,7 @@
 ## 💻 A little about me: 💻
 
 **I'm Cristian Zanella.**
-<p>14y, from Brazil - beginner programmer and security/hacking enthusiast.</p>
+<p>15y, from Brazil - beginner programmer and security/hacking enthusiast.</p>
 
 -------------------------------------
 *- Favorite Tools:*
@@ -18,6 +18,5 @@
 
 <div>
   <a href="https://instagram.com/ocristianzanella" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/oCristianCorrea" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cristianzanellacorrea/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
